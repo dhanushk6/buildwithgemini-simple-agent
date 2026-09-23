@@ -2,8 +2,9 @@
 
 A conversational agent that helps home cooks discover recipes, track pantry items, and respect user allergies.
 
-![Demo Video of Smart Pantry Agent](demo.gif)
-
+<video src="agent_demo.webm" controls autoplay loop>
+  Your browser does not support the video tag.
+</video>
 ## Capabilities
 
 The Smart Pantry Agent implements the following capabilities, fully wired to Google Cloud services:
